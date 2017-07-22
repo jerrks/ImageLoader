@@ -1,0 +1,6 @@
+<resources>
+
+  <!--图片加载 key tag id -->
+  <item type="id" name="key_load_image_url"/>
+
+</resources>
